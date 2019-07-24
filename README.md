@@ -13,7 +13,7 @@
 1. Set up a many to many relationship between students and courses
    * Courses should have a name
    * Students should have a name
-   * Students should have a grade for each course they are associated with
+   * Students should have a grade for each course they are associated with. This grade should be a decimal number.
 
 1. Complete the following user stories:
 
