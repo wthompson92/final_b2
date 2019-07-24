@@ -7,6 +7,7 @@
 * Clone your fork
 * Run `bundle`
 * Complete the tasks below
+* When you are finished with the tasks, push your code to the master branch of your forked repository.
 
 ## Tasks
 
