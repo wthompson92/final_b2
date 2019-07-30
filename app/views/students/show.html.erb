@@ -1,6 +1,6 @@
 <h1>Student Show</h1>
 
-<h3>Name: <%= @student.name %></h3>
+<h3>Name<%= @student.name %></h3>
 
   <table class = "table">
     <tr>
@@ -10,7 +10,7 @@
     <% @student.course_and_grade.each do |cg| %>
     <tr>
       <td><%=cg.name %></td>
-      <td><%=cg.grade%></td>
-      <% end %>
+      <td><%= cg.grade %></td>
     </tr>
+    <% end %>
   </table>
